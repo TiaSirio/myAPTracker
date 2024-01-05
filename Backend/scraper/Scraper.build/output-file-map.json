@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/Scraper.d",
+    "object": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/Scraper.o",
+    "swift-dependencies": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/master.swiftdeps"
+  },
+  "/Scraper/Sources/Scraper/AmazonScraper.swift": {
+    "object": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/AmazonScraper.swift.o",
+    "swiftmodule": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/AmazonScraper~partial.swiftmodule",
+    "swift-dependencies": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/AmazonScraper.swiftdeps"
+  },
+  "/Scraper/Sources/Scraper/DownloadManager.swift": {
+    "object": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/DownloadManager.swift.o",
+    "swiftmodule": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/DownloadManager~partial.swiftmodule",
+    "swift-dependencies": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/DownloadManager.swiftdeps"
+  },
+  "/Scraper/Sources/Scraper/main.swift": {
+    "object": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/main.swift.o",
+    "swiftmodule": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Scraper/.build/x86_64-unknown-linux-gnu/release/Scraper.build/main.swiftdeps"
+  }
+}
